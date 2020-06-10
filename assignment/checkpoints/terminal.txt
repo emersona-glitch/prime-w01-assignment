@@ -20,4 +20,4 @@ to check if any files have been modified from their state at the time of the las
 # 9 - What does the command 'git add .' do?
 the add command stages any files in the current directory to be committed to the repository
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push origin master
+git push -u origin master
